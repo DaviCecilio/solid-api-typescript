@@ -50,6 +50,7 @@ Complementar os estudos feitos com o curso do [Rodrigo Manguinho](https://github
  - [ ] Upgrade DOCS (Readme)
  - [ ] Develop front-end application to consume the api
 <br/>
+
 ## :bookmark_tabs:  Créditos
 
 - [**Princípios SOLID em uma API REST com Node.js e TypeScript | Code/Drops #44**](https://www.youtube.com/watch?v=vAV4Vy4jfkc)
