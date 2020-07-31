@@ -1,6 +1,7 @@
 <div align="center">
     <img src="https://res.cloudinary.com/cryptonita/image/upload/v1596155939/S.O.L.I.D_cbk1pm.png" width="220px"/>
 </div>
+
 <h2 align="center">
    Solid + Typescript
 </h2>
@@ -51,12 +52,8 @@ Complementar os estudos feitos com o curso do [Rodrigo Manguinho](https://github
 <br/>
 ## :bookmark_tabs:  Créditos
 
-- **Princípios SOLID em uma API REST com Node.js e TypeScript | Code/Drops #44**
+- [**Princípios SOLID em uma API REST com Node.js e TypeScript | Code/Drops #44**](https://www.youtube.com/watch?v=vAV4Vy4jfkc)
 
-<div align="center">
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/vAV4Vy4jfkc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 - [**O que é SOLID: O guia completo para você entender os 5 princípios da POO**](https://medium.com/desenvolvendo-com-paixao/o-que-%C3%A9-solid-o-guia-completo-para-voc%C3%AA-entender-os-5-princ%C3%ADpios-da-poo-2b937b3fc530)
 <br/>
